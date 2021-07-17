@@ -1,3 +1,3 @@
-# FingerCounter
+# FingerDetector
 
-Program to count the number of upright fingers
+Program to detect and count the number of upright fingers
