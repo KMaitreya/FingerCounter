@@ -22,6 +22,13 @@ We will use the coordinates of the reference points of the plam to determine whi
 
 Example output:-
 
+All fingers-
+
+<img width="479" alt="allFingers" src="https://user-images.githubusercontent.com/47482433/127780268-2b757b0c-3fa4-4fd6-9af0-fcea1e4226c0.png">
+
+Thumb, index finger and pinky-
+
+<img width="479" alt="threeFingers" src="https://user-images.githubusercontent.com/47482433/127780276-cfb887a1-d072-4afc-b511-6ec2acc5e737.png">
 
 After executing the program a camera window will open up, you will be able to see your palm being tracked in this camera window. The top right corner will show you the number of upright fingers and the names of the upright fingers.
 
