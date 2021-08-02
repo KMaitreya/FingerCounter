@@ -24,11 +24,11 @@ Example output:-
 
 All fingers-
 
-<img width="479" alt="allFingers" src="https://user-images.githubusercontent.com/47482433/127780268-2b757b0c-3fa4-4fd6-9af0-fcea1e4226c0.png">
+<img width="480" alt="allFingers" src="https://user-images.githubusercontent.com/47482433/127812757-3b0b1e90-ab5a-4f63-8b12-c6e23286de5e.png">
 
 Thumb, index finger and pinky-
 
-<img width="479" alt="threeFingers" src="https://user-images.githubusercontent.com/47482433/127780276-cfb887a1-d072-4afc-b511-6ec2acc5e737.png">
+<img width="479" alt="threeFingers" src="https://user-images.githubusercontent.com/47482433/127812770-d058522a-e0ab-4290-99ce-29ce8c884c6b.png">
 
 After executing the program a camera window will open up, you will be able to see your palm being tracked in this camera window. The top right corner will show you the number of upright fingers and the names of the upright fingers.
 
